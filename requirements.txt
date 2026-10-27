@@ -1,0 +1,34 @@
+F. PEMERIKSAAN SEBELUM PENGUMPULAN
+Pastikan MP2 dan MP4 selesai tanpa traceback, file hasil sesuai percobaan yang sama, dan notebook dengan output telah tersimpan. Lengkapi tanggal unduh bila diketahui, interpretasi grafik, jawaban Q1–Q3, serta alasan keputusan pembersihan. Bedakan hasil validation untuk pemilihan strategi dari hasil test untuk evaluasi. Jangan memakai EDA setelah melihat test untuk menyetel ulang model lalu mengklaim test yang sama sebagai evaluasi independen. Jelaskan bantuan AI sesuai ketentuan tugas dan gunakan angka aktual dari keluaran, bukan angka contoh.
+
+Mini Project 2 (MP2) – Pembersihan Data Terstruktur
+Daftar Pustaka
+[1] J. Clore, K. Cios, J. DeShazo, dan B. Strack. Diabetes 130-US Hospitals for Years 1999–2008. UCI Machine Learning
+Repository, 2014. Dataset, CC BY 4.0. https://doi.org/10.24432/C5230J.
+[2] B. Strack, J. P. DeShazo, C. Gennings, J. L. Olmo, S. Ventura, K. J. Cios, dan J. N. Clore. “Impact of HbA1c
+Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records.” BioMed Research
+International, 2014, artikel 781670. https://doi.org/10.1155/2014/781670.
+[3] F. Pedregosa dkk. “Scikit-learn: Machine Learning in Python.” Journal of Machine Learning Research, 12, 2825–2830,
+2011. https://jmlr.org/papers/v12/pedregosa11a.html.
+[4] Scikit-learn developers. “GroupShuffleSplit.” Dokumentasi daring, diakses 26 Oktober 2026. https://scikit-learn.
+org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html.
+[5] SciPy community. “scipy.stats.shapiro.” Dokumentasi daring, diakses 26 Oktober 2026. https://docs.scipy.org/doc/
+scipy/reference/generated/scipy.stats.shapiro.html.
+[6] NIST/SEMATECH. e-Handbook of Statistical Methods, Bab 1: Exploratory Data Analysis. Diakses 26 Oktober 2026.
+https://www.itl.nist.gov/div898/handbook/eda/eda.htm.
+
+Mini Project 4 (MP4) – Exploratory Data Analysis
+Daftar Pustaka
+[1] J. Clore, K. Cios, J. DeShazo, dan B. Strack. Diabetes 130-US Hospitals for Years 1999–2008. UCI Machine Learning
+Repository, 2014. Dataset, CC BY 4.0. https://doi.org/10.24432/C5230J.
+[2] B. Strack, J. P. DeShazo, C. Gennings, J. L. Olmo, S. Ventura, K. J. Cios, dan J. N. Clore. “Impact of HbA1c
+Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records.” BioMed Research
+International, 2014, artikel 781670. https://doi.org/10.1155/2014/781670.
+[3] F. Pedregosa dkk. “Scikit-learn: Machine Learning in Python.” Journal of Machine Learning Research, 12, 2825–2830,
+2011. https://jmlr.org/papers/v12/pedregosa11a.html.
+[4] Scikit-learn developers. “GroupShuffleSplit.” Dokumentasi daring, diakses 26 Oktober 2026. https://scikit-learn.
+org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html.
+[5] SciPy community. “scipy.stats.shapiro.” Dokumentasi daring, diakses 26 Oktober 2026. https://docs.scipy.org/doc/
+scipy/reference/generated/scipy.stats.shapiro.html.
+[6] NIST/SEMATECH. e-Handbook of Statistical Methods, Bab 1: Exploratory Data Analysis. Diakses 26 Oktober 2026.
+https://www.itl.nist.gov/div898/handbook/eda/eda.htm.
