@@ -1,0 +1,4 @@
+Unnamed: 0,key,mapping_rows,unmapped_n,rows_after,unit_conflict
+0,admission_type_id,8,0,101766,"Tidak ada: kode nominal, bukan ukuran fisik."
+1,discharge_disposition_id,30,0,101766,"Tidak ada: kode nominal, bukan ukuran fisik."
+2,admission_source_id,25,0,101766,"Tidak ada: kode nominal, bukan ukuran fisik."

@@ -1,0 +1,16 @@
+Unnamed: 0,a,b,chi2,p,cramers_v,expected_lt5_pct
+20,change,diabetesMed,15596.114999,0.0,0.506149,0.0
+12,admission_type_id,admission_source_id,68457.161452,0.0,0.400802,52.678571
+11,admission_type_id,discharge_disposition_id,12839.564824,0.0,0.173579,57.692308
+16,discharge_disposition_id,change,628.840552,1.122754e-116,0.101634,26.923077
+8,race,admission_source_id,2821.194909,0.0,0.096272,44.047619
+15,discharge_disposition_id,admission_source_id,6349.16124,0.0,0.089569,70.32967
+17,discharge_disposition_id,diabetesMed,459.963227,1.464455e-81,0.086922,25.0
+2,gender,discharge_disposition_id,668.011011,5.661218e-109,0.074071,51.282051
+6,race,admission_type_id,1251.661306,2.664845e-240,0.064125,31.25
+13,admission_type_id,change,248.712866,5.206305999999999e-50,0.063917,12.5
+0,gender,race,375.393927,1.611264e-74,0.055526,33.333333
+18,admission_source_id,change,168.920352,3.059489e-29,0.052676,25.0
+7,race,discharge_disposition_id,790.341832,3.582046e-97,0.050956,47.435897
+14,admission_type_id,diabetesMed,119.51636,9.660723000000001e-23,0.044308,18.75
+19,admission_source_id,diabetesMed,82.960482,3.050077e-12,0.036915,25.0

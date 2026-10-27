@@ -1,0 +1,3 @@
+Unnamed: 0,model,strategy,train_rows,test_rows,accuracy,f1_positive,f1_macro,precision_positive,recall_positive,balanced_accuracy,roc_auc,average_precision
+0,baseline,constant,81278,20488,0.624512,0.272942,0.509921,0.175797,0.610055,0.618228,0.662488,0.209263
+1,full_pipeline,mode,81278,20488,0.599717,0.270828,0.497485,0.171509,0.643431,0.618719,0.662165,0.20917

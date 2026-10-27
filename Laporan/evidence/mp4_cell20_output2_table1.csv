@@ -1,0 +1,9 @@
+Unnamed: 0.1,Unnamed: 0,count,mean,std,min,25%,50%,75%,max
+0,time_in_hospital,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,num_lab_procedures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,num_procedures,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,num_medications,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,number_outpatient,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,number_emergency,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,number_inpatient,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,number_diagnoses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
